@@ -23,7 +23,7 @@ Open Arduino IDE >> Preferences >> Additional boards manager URLs
 Open arduino IDE >> tools >> Boards manager >> Search "ESP32" and install the library
 ![esp32 library img](https://user-images.githubusercontent.com/112507554/205515509-14c51aaf-10c6-46d3-8f05-d2aa9293970b.png)
 
-5) Now open the CameraWebServer folder and run the " .INO" file and Connect ESP32 via USB cable and choose your port in Arduino IDE. make sure you have changed your wifi SSID and Password in the code.
+5) Now open the CameraWebServer folder and run the "CameraWebServer.INO" file and Connect ESP32 via USB cable and choose your port in Arduino IDE. make sure you have changed your wifi SSID and Password in the code.
  
 6) Compile and run!!
 
