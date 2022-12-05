@@ -23,9 +23,11 @@ Open Arduino IDE >> Preferences >> Additional boards manager URLs
 Open arduino IDE >> tools >> Boards manager >> Search "ESP32" and install the library
 ![esp32 library img](https://user-images.githubusercontent.com/112507554/205515509-14c51aaf-10c6-46d3-8f05-d2aa9293970b.png)
 
-5) Now open the CameraWebServer folder and run the "CameraWebServer.INO" file and Connect ESP32 via USB cable and choose your port in Arduino IDE. make sure you have changed your wifi SSID and Password in the code.
+5) Now open the CameraWebServer folder and run the "CameraWebServer.INO" file and Connect ESP32 via USB cable and choose your port in Arduino IDE. 
+
+NOTE: Make sure you have changed your wifi SSID and Password in the code.
  
-6) Compile and run!!
+6) Compile and run !!
 
 7) Once the code is compiled and uploaded to the ESP32 open serial montor where you will find the IP address where you can get the video stream from the ESP32 camera
 ![serial monitor](https://user-images.githubusercontent.com/112507554/205517385-0ba2b9ea-cead-4781-81b3-a212ff5e6cb8.png)
